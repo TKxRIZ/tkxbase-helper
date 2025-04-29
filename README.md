@@ -15,4 +15,4 @@
 ## Installation
 
 ```bash
-pip install colorama
+pip3 install "git+https://github.com/TKxRIZ/tkxbase-helper.git"
