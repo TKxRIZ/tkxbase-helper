@@ -1,0 +1,6 @@
+---
+
+# 📄 Beispiel für **requirements.txt**
+
+```plaintext
+colorama
